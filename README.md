@@ -1,3 +1,7 @@
+# PROYECTO DE RESERVA DE TURNOS PARA MASCOTAS CURSO JDLT#
+
+El objetivo de este proyecto es el manejo de formularios en REACT JS, se pueden hacer reservas de turnos, listarlos, eliminarlos y son almacenados en localStorage.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
